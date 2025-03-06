@@ -1,0 +1,16 @@
+//EDIT AND UPDATE ROUTE
+
+show.ejs
+create edit link
+
+//EDTI ROUTE
+
+
+
+edit.ejs
+//POST req--->PUT req
+--therefor npm i  method-override
+
+//UPDATE ROUTE
+
+...req.body.listing //is a js object

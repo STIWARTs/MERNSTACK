@@ -1,0 +1,8 @@
+//Client side validation
+..add---required
+....using boootstrap--add class "needs-validation"--
+--which is written in public>js>script.js--
+CLNT SIDE VAL DONE........
+
+NOTE: FOR SERVER SIDE NEEDED AS koi bhi hopposcoch ya postman se data db ko bhej skta
+http://localhost:8080/listings/65100000b8d2859979fOcc83/reviews

@@ -1,0 +1,10 @@
+CREATING UTILS //Custom error handling
+        ..ExpressError.js         
+        ..wrapAsync.js
+
+app.js
+require both of them
+&
+useing
+ wrapAsync as parameter
+ express for custom error show using throw attach on apis if yes then this if not this then that

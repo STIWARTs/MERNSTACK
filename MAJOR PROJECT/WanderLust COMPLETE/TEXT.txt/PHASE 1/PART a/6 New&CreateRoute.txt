@@ -1,0 +1,19 @@
+NEW AND CREATE ROUTE
+
+//make button--Create New Listing
+
+
+//New ROUTE (before SHOW route)
+
+
+new.ejs
+....
+with add button
+
+
+
+
+//CREATE ROUTE
+//let (title, description, image, price, country, location) = req.body;//extract
+  //another way to make variable of new.ejs to object ki key 
+  const newListing = new Listing(req.body.listing);

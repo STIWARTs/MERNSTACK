@@ -1,0 +1,3 @@
+VIEWS>
+error.ejs
+//<!-- Alert using Bootstrap -->

@@ -1,0 +1,30 @@
+MODELS>review.js
+
+//Review Schema 
+
+
+
+listing.js
+  reviews: [
+    {
+      type: Schema.Types.ObjectId,
+      ref: "Review",
+    },
+  ],
+
+////CREATING REVIES---2 STEP PROCESS
+--inside show page
+ <!-- CREATE REVIES -->
+
+ //in rating 
+ add...          class="form-range" .....gives bootstrap custom rating
+
+
+
+ //step 2
+ SUBMITTING THE FORM ---ADD IT TO DB
+
+create route
+/revies--post route
+
+res.redirect(`/listings/${listing._id}`);//note using here " " doesnt works only `backtick works

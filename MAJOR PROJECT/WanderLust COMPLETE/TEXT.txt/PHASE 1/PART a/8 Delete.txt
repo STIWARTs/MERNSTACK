@@ -1,0 +1,3 @@
+..delete button on show.ejs
+
+//DELETE ROUTE

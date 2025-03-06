@@ -1,0 +1,13 @@
+all style on 
+new.ejs
+
+
+for fixing footer
+//by making pge take 100% width and remaing is for footer
+....
+style.css
+body---->display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+
+.containerclass----->flex: 1;

@@ -1,0 +1,27 @@
+##### BASIC SETUP ######
+
+--COMMAND--
+npm init -y
+npm i express
+npm i ejs
+npm i mongoose
+
+
+--FILES--
+app.js
+
+
+--RESTFUL API--
+
+
+--SERVER--
+//Start Server
+>nodemon app.js
+
+
+--DATA BASE--
+//Starting Data Base
+//note before connction start mongodb services And test inside mongosh cell
+>show dbs
+//DB CONNECTING
+////for call main function

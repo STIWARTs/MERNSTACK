@@ -1,0 +1,10 @@
+//SHOW ROUTE
+
+show.ejs
+...
+..toLocalString("en-IN")..fuction
+
+
+add
+app.use(express.urlencoded({ extended: true }));
+//so that all data parse which are jo aaraha hai req

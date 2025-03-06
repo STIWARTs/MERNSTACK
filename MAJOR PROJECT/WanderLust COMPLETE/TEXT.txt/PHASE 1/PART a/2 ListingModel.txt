@@ -1,0 +1,25 @@
+--MODELS---
+listing.js
+
+@exports listing
+
+---INDEX.JS----
+@require listing
+
+//basic route
+app.get("/testListing", async (req, res) => {
+  let sampleListing = new Listing({
+    title: "My New Villa",
+    description: "By the beach",
+    price: 1200,
+    location: "Calangute, Goa",
+    country: "India",
+  });
+
+  //save in db
+  await sampleListing.save();
+  console.log("sample was saved");
+  res.send("successful testing");
+});
+
+////////wanderlust created on db with listings collection with a data ....

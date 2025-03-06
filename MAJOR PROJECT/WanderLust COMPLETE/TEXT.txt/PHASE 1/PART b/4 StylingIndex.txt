@@ -1,0 +1,9 @@
+STYLING Index---listing transform into cards
+
+BOOTSTRAP
+cards
+
+
+add google font
+style.css
+styling index.ejs

@@ -1,0 +1,12 @@
+FORM VALIDATIONS--add bootstrap validations
+
+new.ejs
+...required
+
+Custom styles 
+For custom Bootstrap form validation messages, you’ll need to add the novalidate boolean attribute to your <form>. This disables the browser default feedback tooltips, but still provides access to the form validation APIs in JavaScript. Try to submit the form below; our JavaScript will intercept the submit button and relay feedback to you. When attempting to submit, you’ll see the :invalid and :valid styles applied to your form controls.
+
+//novalidate class="needs-validation"
+
+PUBLIC>JS
+script.js...(past logic from bootstrap)

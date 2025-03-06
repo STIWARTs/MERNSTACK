@@ -1,0 +1,6 @@
+<!-- Creating valid and invalid feedback -->
+        <div class="valid-feedback">Title Looks Good!</div>
+        <div class="invalid-feedback">Title Must be Required!</div>                                
+
+
+same as show.ejs to edit.ejs

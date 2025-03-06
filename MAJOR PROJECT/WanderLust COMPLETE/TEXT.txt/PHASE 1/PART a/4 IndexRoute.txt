@@ -1,0 +1,5 @@
+//INDEX ROUTE
+
+FOLDER
+views>listing
+index.ejs

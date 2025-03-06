@@ -1,0 +1,18 @@
+-----SAMPLE DATA form  of array LINK GIVEN--------
+FOLDER init
+data.js
+
+..export in the  form of object..
+
+
+
+index.js
+..contains logic of initializatoin
+
+
+//fixing most time demanding error init/data.js using chatgpt
+
+//send this data to db by
+node index.js
+
+///note use only one time

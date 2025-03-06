@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "random-words": "^2.0.1"
+  },
+  "name": "randomwords",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stiwart",
+  "license": "ISC",
+  "description": "",
+  
+  "type": "module"
+  
+}
